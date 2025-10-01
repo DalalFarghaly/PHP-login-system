@@ -7,3 +7,4 @@ lastName varchar(50),
 email varchar(100),
 pass varchar(40)
 )
+RENAME TABLE user TO users;
